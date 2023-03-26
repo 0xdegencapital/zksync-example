@@ -1,0 +1,15 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+.yarnrc.yml
+install-state.gz
+
+#Hardhat files
+cache
+artifacts
+
+artifacts-zk
+cache-zk
